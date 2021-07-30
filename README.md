@@ -2,4 +2,4 @@
 University course of C
 
 List of Exercise
-#001 Bubble Sort
+#1 Hello World!
