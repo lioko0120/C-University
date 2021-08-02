@@ -6,3 +6,4 @@ List of Exercise: <br>
 #2 Min & Max between 3 numbers [Easy]<br>
 #3 Fibonacci Series [Easy] <br>
 #4 Concatenation of Array [Easy] <br>
+#5 Roll a Dice 60kk of times [Easy] <br>
